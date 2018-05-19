@@ -1,6 +1,5 @@
 # princesa-do-sertao
-
-# Configuração
+Apenas um exercício de mineração de dados.
 
 ## Instalação do Python
 
